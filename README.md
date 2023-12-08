@@ -10,6 +10,8 @@ Midtrans Snap is a versatile payment gateway that allows seamless integration fo
 
 This repository aims to provide developers with a quick start guide and example code for integrating Midtrans Snap into their web applications.
 
+![midtrans.png](https://github.com/aldiandarwin/snap-payment-gateway/assets/70283015/7635d83f-c221-4cac-a27e-b2dbadc59b01)
+
 ## Credits
 
 This guide and template were created by Dea Afrizal with the purpose of education. Visit Dea Afrizal's YouTube channel for more insightful tutorials on payment gateway integrations and web development.
